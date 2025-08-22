@@ -1,4 +1,4 @@
-## Hi, I am Kerem 👋
+## Hi, I am **Kerem** 👋
 
 🔭 I’m currently working on the MeteoSpan project.
 

@@ -12,7 +12,7 @@
 - 💻 Building things with **Python** and **C**
 - 🔐 Currently exploring **backend development**, **REST APIs**, and **authentication systems**
 - 🌱 Completed a software development internship at **Geobilgi Bilişim Teknolojileri** (Aug – Sep 2025)
-- 🎯 Looking for **summer 2026 internships** and part-time opportunities in software development
+- 🎯 Looking for **summer 2027 internships** and part-time opportunities in software development
 - 🌍 Based in **Torino, Italy** — originally from **İstanbul, Türkiye**
 - 🗣️ Languages: Turkish, English (native) • German (proficient) • Italian (intermediate)
 
